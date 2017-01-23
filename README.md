@@ -8,3 +8,4 @@ Update
 Update v.2.0
 
 Waiting for update.....
+Doesnt work like supposed to..
