@@ -1,0 +1,6 @@
+c:\users\arodor\documents\visual studio 2015\Projects\GreetingByName\HousePrice\bin\Debug\HousePrice.exe.config
+c:\users\arodor\documents\visual studio 2015\Projects\GreetingByName\HousePrice\bin\Debug\HousePrice.exe
+c:\users\arodor\documents\visual studio 2015\Projects\GreetingByName\HousePrice\bin\Debug\HousePrice.pdb
+c:\users\arodor\documents\visual studio 2015\Projects\GreetingByName\HousePrice\obj\Debug\HousePrice.csprojResolveAssemblyReference.cache
+c:\users\arodor\documents\visual studio 2015\Projects\GreetingByName\HousePrice\obj\Debug\HousePrice.exe
+c:\users\arodor\documents\visual studio 2015\Projects\GreetingByName\HousePrice\obj\Debug\HousePrice.pdb

@@ -1,0 +1,6 @@
+c:\users\arodor\documents\visual studio 2015\Projects\GreetingByName\CelsiousToFarenheit\bin\Debug\CelsiousToFarenheit.exe.config
+c:\users\arodor\documents\visual studio 2015\Projects\GreetingByName\CelsiousToFarenheit\bin\Debug\CelsiousToFarenheit.exe
+c:\users\arodor\documents\visual studio 2015\Projects\GreetingByName\CelsiousToFarenheit\bin\Debug\CelsiousToFarenheit.pdb
+c:\users\arodor\documents\visual studio 2015\Projects\GreetingByName\CelsiousToFarenheit\obj\Debug\CelsiousToFarenheit.csprojResolveAssemblyReference.cache
+c:\users\arodor\documents\visual studio 2015\Projects\GreetingByName\CelsiousToFarenheit\obj\Debug\CelsiousToFarenheit.exe
+c:\users\arodor\documents\visual studio 2015\Projects\GreetingByName\CelsiousToFarenheit\obj\Debug\CelsiousToFarenheit.pdb
