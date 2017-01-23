@@ -1,0 +1,5 @@
+c:\users\arodor\documents\visual studio 2015\Projects\Exam\VeggieMarket\bin\Debug\VeggieMarket.exe.config
+c:\users\arodor\documents\visual studio 2015\Projects\Exam\VeggieMarket\bin\Debug\VeggieMarket.exe
+c:\users\arodor\documents\visual studio 2015\Projects\Exam\VeggieMarket\bin\Debug\VeggieMarket.pdb
+c:\users\arodor\documents\visual studio 2015\Projects\Exam\VeggieMarket\obj\Debug\VeggieMarket.exe
+c:\users\arodor\documents\visual studio 2015\Projects\Exam\VeggieMarket\obj\Debug\VeggieMarket.pdb
